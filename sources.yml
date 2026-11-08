@@ -1,0 +1,23 @@
+# Feed adreslerini doğrulayarak güncelleyin. Geçersiz feed otomatik atlanır.
+# full_text yalnızca yeniden yayımlama izniniz olan kaynaklarda true yapılmalıdır.
+sources:
+  - id: kibrispostasi
+    name: Kıbrıs Postası
+    feed: "" # RSS servisindeki doğrulanmış kategori adresini girin
+    enabled: false
+    full_text: false
+  - id: havadis
+    name: Havadis Kıbrıs
+    feed: "https://www.havadiskibris.com/feed/"
+    enabled: true
+    full_text: false
+  - id: ensonhaber
+    name: Ensonhaber
+    feed: "" # https://www.ensonhaber.com/rss-servisleri sayfasından seçin
+    enabled: false
+    full_text: false
+  - id: tak
+    name: Türk Ajansı Kıbrıs
+    feed: "" # TAK'tan izinli/teyit edilmiş RSS URL'si girin
+    enabled: false
+    full_text: false
