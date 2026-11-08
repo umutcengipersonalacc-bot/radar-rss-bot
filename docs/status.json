@@ -1,0 +1,16 @@
+{
+  "kibrispostasi": {
+    "status": "disabled_or_unconfigured"
+  },
+  "havadis": {
+    "status": "ok",
+    "items": 10,
+    "failed": []
+  },
+  "ensonhaber": {
+    "status": "disabled_or_unconfigured"
+  },
+  "tak": {
+    "status": "disabled_or_unconfigured"
+  }
+}
