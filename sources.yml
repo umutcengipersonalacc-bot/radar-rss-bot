@@ -10,7 +10,7 @@ sources:
     name: Havadis Kıbrıs
     feed: "https://www.havadiskibris.com/feed/"
     enabled: true
-    full_text: false
+   full_text: true
   - id: ensonhaber
     name: Ensonhaber
     feed: "" # https://www.ensonhaber.com/rss-servisleri sayfasından seçin
