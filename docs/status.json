@@ -4,8 +4,13 @@
   },
   "havadis": {
     "status": "ok",
-    "items": 20,
-    "failed": []
+    "items": 23,
+    "failed": [
+      {
+        "url": "https://www.havadiskibris.com/erdogan-ve-aliyev-karabag-zaferinin-6-yilinda-susada-gorustu/",
+        "reason": "missing_image"
+      }
+    ]
   },
   "ensonhaber": {
     "status": "error",
