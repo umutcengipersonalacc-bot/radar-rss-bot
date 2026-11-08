@@ -18,7 +18,7 @@ sources:
     name: Ensonhaber
     feed: "https://www.ensonhaber.com/rss/ensonhaber.xml"
     enabled: true
-    full_text: true
+    full_text: false
 
   - id: tak
     name: Türk Ajansı Kıbrıs
