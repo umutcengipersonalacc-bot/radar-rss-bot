@@ -5,12 +5,7 @@
   "havadis": {
     "status": "ok",
     "items": 60,
-    "failed": [
-      {
-        "url": "https://www.havadiskibris.com/abd-ile-iran-arasindaki-muzakerelerde-ilerleme-kaydediliyor/",
-        "reason": "missing_image"
-      }
-    ]
+    "failed": []
   },
   "ensonhaber": {
     "status": "error",
