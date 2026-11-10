@@ -4,8 +4,13 @@
   },
   "havadis": {
     "status": "ok",
-    "items": 50,
-    "failed": []
+    "items": 59,
+    "failed": [
+      {
+        "url": "https://www.havadiskibris.com/dikkat-duzeltme-2/",
+        "reason": "short_or_missing_full_text"
+      }
+    ]
   },
   "ensonhaber": {
     "status": "error",
