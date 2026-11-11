@@ -5,7 +5,12 @@
   "havadis": {
     "status": "ok",
     "items": 60,
-    "failed": []
+    "failed": [
+      {
+        "url": "https://www.havadiskibris.com/cumhurbaskanliginda-15-kasimda-43uncu-kurulus-yil-donumu-resepsiyonu-duzenleniyor/",
+        "reason": "short_or_missing_full_text"
+      }
+    ]
   },
   "ensonhaber": {
     "status": "error",
