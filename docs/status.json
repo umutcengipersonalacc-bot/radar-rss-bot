@@ -5,7 +5,12 @@
   "havadis": {
     "status": "ok",
     "items": 60,
-    "failed": []
+    "failed": [
+      {
+        "url": "https://www.havadiskibris.com/portekizde-siddetli-yagis-ve-firtina-yasami-felc-etti/",
+        "reason": "missing_image"
+      }
+    ]
   },
   "ensonhaber": {
     "status": "error",
