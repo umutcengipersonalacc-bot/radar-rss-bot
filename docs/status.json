@@ -5,12 +5,7 @@
   "havadis": {
     "status": "ok",
     "items": 60,
-    "failed": [
-      {
-        "url": "https://www.havadiskibris.com/alsancak-ve-laptanin-bazi-bolgelerinde-yarin-elektrik-kesintisi-yapilacak/",
-        "reason": "short_or_missing_full_text"
-      }
-    ]
+    "failed": []
   },
   "ensonhaber": {
     "status": "error",
