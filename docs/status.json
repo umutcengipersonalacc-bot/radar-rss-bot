@@ -7,8 +7,12 @@
     "items": 60,
     "failed": [
       {
-        "url": "https://www.havadiskibris.com/amazonun-40-internet-uydusunu-tasiyan-vulcan-roketi-gorevinde-basarisiz-oldu/",
-        "reason": "missing_image"
+        "url": "https://www.havadiskibris.com/lefkosada-elektrik-kesintisi-yapilacak-3/",
+        "reason": "short_or_missing_full_text"
+      },
+      {
+        "url": "https://www.havadiskibris.com/milli-egitim-bakanligi-polatpasa-ilkokulundaki-gelismeler-diyalogla-ele-alinmali/",
+        "reason": "short_or_missing_full_text"
       }
     ]
   },
