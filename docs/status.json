@@ -5,7 +5,12 @@
   "havadis": {
     "status": "ok",
     "items": 60,
-    "failed": []
+    "failed": [
+      {
+        "url": "https://www.havadiskibris.com/amazonun-40-internet-uydusunu-tasiyan-vulcan-roketi-gorevinde-basarisiz-oldu/",
+        "reason": "missing_image"
+      }
+    ]
   },
   "ensonhaber": {
     "status": "error",
