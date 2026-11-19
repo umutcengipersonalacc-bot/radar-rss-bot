@@ -8,8 +8,9 @@
     "failed": []
   },
   "ensonhaber": {
-    "status": "error",
-    "detail": "403 Client Error: Forbidden for url: https://www.ensonhaber.com/rss/ensonhaber.xml"
+    "status": "ok",
+    "items": 35,
+    "failed": []
   },
   "tak": {
     "status": "disabled_or_unconfigured"
