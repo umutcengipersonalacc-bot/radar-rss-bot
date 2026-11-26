@@ -5,12 +5,7 @@
   "havadis": {
     "status": "ok",
     "items": 60,
-    "failed": [
-      {
-        "url": "https://www.havadiskibris.com/malatya-koyu-ile-alsancak-bolgesinin-guney-kisimlarinda-cuma-gunu-elektrik-kesintisi/",
-        "reason": "short_or_missing_full_text"
-      }
-    ]
+    "failed": []
   },
   "ensonhaber": {
     "status": "ok",
