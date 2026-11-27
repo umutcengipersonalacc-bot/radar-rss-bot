@@ -5,12 +5,7 @@
   "havadis": {
     "status": "ok",
     "items": 60,
-    "failed": [
-      {
-        "url": "https://www.havadiskibris.com/filo-jet-sorusturmasi-dort-gundur-suren-teminat-durusmasinda-karar-yarin-aciklanacak/",
-        "reason": "missing_image"
-      }
-    ]
+    "failed": []
   },
   "ensonhaber": {
     "status": "ok",
